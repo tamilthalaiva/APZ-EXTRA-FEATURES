@@ -13,7 +13,7 @@
 [![Forks](https://img.shields.io/github/forks/ankitpatel005/auto-APZ-EXTRA-FEATURES?style=flat-square&color=blue)](https://github.com/ankitpatel005/APZ-EXTRA-FEATURES/fork)
 [![Size](https://img.shields.io/github/repo-size/ankitpatel005/APZ-EXTRA-FEATURES?style=flat-square&color=red)](https://github.com/ankitpatel005/APZ-EXTRA-FEATURES)   
 [![Open Source happy ](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Ankitpatel005/APZ-EXTRA-FEATURES)   
-[![Contributors](https://img.shields.io/github/contributors/ankitpatel005/APZ-EXTRA-FEATURES?style=flat-square&color=green)](https://github.com/ankitpatel005/APZ-EXTRA-FEATURES/graphs/contributors)
+[![Contributors](https://img.shields.io/github/contributors/ankitpatel005/APZ-EXTRA-FEATURES?style=flat-square&color=green)](https://github.com/tamilthalaiva/APZ-EXTRA-FEATURES)
 ## Features
 
 - [x] Auto Filter
